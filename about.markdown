@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 # Club Meetings
+Meetings are held at Vail Academy and High School
 - Fridays 3:30 - 5:00 PM
 - Saturdays 1:00 - 5:00 PM
 
