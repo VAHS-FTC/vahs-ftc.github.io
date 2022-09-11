@@ -7,7 +7,7 @@ permalink: /about/
 # Club Meetings
 Meetings are held at Vail Academy and High School
 - Fridays 3:30 - 5:00 PM
-- Saturdays 1:00 - 5:00 PM
+- Saturdays 8:00 AM - 12:00 PM
 
 # Important Links
 - [AZ FIRST Tech Challenge](http://aznmfirsttechchallenge.blogspot.com/)
