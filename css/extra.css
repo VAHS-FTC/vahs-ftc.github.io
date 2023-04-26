@@ -1,0 +1,4 @@
+@media print {
+    body { contain: content; }
+    article { padding: 0 !important; margin-top: -0.4in !important; }
+}
